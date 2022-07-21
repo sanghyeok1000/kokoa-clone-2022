@@ -11,6 +11,7 @@
 /*screens */
 @import "screens/login.css";
 @import "screens/friend-display-link.css";
+@import "screens/find.css";
 
 body {
   color: #2e363e;
